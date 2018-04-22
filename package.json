@@ -21,7 +21,6 @@
     "gulp": "^3.9.1",
     "gulp-html-import": "^0.0.2",
     "gulp-less": "^4.0.0",
-    "gulp-less-import": "^1.0.0",
-    "uikit": "^3.0.0-beta.42"
+    "gulp-less-import": "^1.0.0"
   }
 }

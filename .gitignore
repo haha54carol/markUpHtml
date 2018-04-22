@@ -1,0 +1,8 @@
+# WebStorm
+.idea/
+.idea
+dist/
+
+vcs.xml
+
+node_modules
